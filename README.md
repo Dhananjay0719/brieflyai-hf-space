@@ -61,3 +61,15 @@ from long-form text and is deployed live on **Hugging Face Spaces (Free tier)**.
 - First request may be slow due to model cold start on free tier
 - Subsequent requests are faster
 - Space may sleep after inactivity (expected behavior)
+
+---
+
+## 🔁 Related Repository (Flask Hybrid Version)
+
+This Hugging Face Space demonstrates the **true abstractive summarization**
+capability of BrieflyAI using Transformer encoder–decoder models.
+
+For a **Flask-based hybrid extractive + abstractive system** with
+chunking, caching, and backend-focused architecture, see:
+
+👉 https://github.com/Dhananjay0719/brieflyai-text-summarizer
